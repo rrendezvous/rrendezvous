@@ -20,7 +20,7 @@ I bridge the gap between human needs and technical logic.
 
 I’m an IT student and UI/UX designer who enjoys understanding users, collaborating with people, and turning ideas into practical, buildable solutions. My work sits at the intersection of UX research, system analysis, and user-centered design, where I focus on making things clear, usable, and technically sound.
 
-With a background in frontend development and databases, I like designing with real-world constraints in mind and working closely with both designers and developers. I was part of a **U-IGNITE Summit 2025 winning team** as the **System Analyst and UI/UX Designer**, which reinforced my interest in thoughtful problem-solving and collaboration.
+With a background in frontend development and databases, I like designing with real-world constraints in mind and working closely with both designers and developers. I was part of the USTP Future Summit: Unite. Innovate. Grow. Network. Inspire. Transform. Engage. (U-IGNITE) 2025 with a Reverse Pitching on Research and Innovation winning team as the System Analyst and UI/UX Designer, which reinforced my interest in thoughtful problem-solving and collaboration.
 
 ---
 
