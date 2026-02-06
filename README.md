@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I’m Kzh 👋
+# Hi, I’m Rendezvous 👋
 
 ### UI/UX Designer · Creative Technologist · IT Student
 
